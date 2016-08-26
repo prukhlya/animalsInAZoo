@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+table, th, td, tr {
+	border: 1px solid black;
+	text-align: center;
+	background-color: white;
+}
+
+body {
+	position: relative;
+	background-image:
+		url("http://www.blooloop.com/_files/News/Image/728201044810marylandzoo.jpg");
+}
+
+h2 {
+	background-color: lightblue;
+}
+
+input, select, textarea {
+	background-color: #bde9ba;
+}
+
+tr {
+	font-size: 18px;
+}
+
+label {
+	color: green;
+	font-size: x-large;
+	background-color: white;
+}
